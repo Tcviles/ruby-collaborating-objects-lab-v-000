@@ -7,7 +7,6 @@ class Artist
     @songs = []
   end
 
-<<<<<<< HEAD
   def self.all
     @@all
   end
